@@ -8,7 +8,7 @@
  Esse projeto consiste em um aplicativo desktop que realiza o cadastro, listagem e filtro de empréstimos de aparelhos hospitalares.  
  Existe uma necessidade de ter um controle dos aparelhos que são emprestados pelo Instituto Glacia da Silva - Corrente do Bem, as informações sobre os empréstimos estavam dispersas e confusas, causando em perda de dados.  
 
- Esse aplicatico resolve isso. Ao cadastrar um empréstimo é solicitado informações pertinentes ao responsável pelo aparelho, permitindo assim um futuro contato com o mesmo.
+ Esse aplicativo resolve isso. Ao cadastrar um empréstimo é solicitado informações pertinentes ao responsável pelo aparelho, permitindo assim um futuro contato com o mesmo.
 
  ![app-igds](https://github.com/jaen3dev/app-gerenciador-de-emprestimos-igds/assets/152646582/707b87c0-29a2-4655-b3d2-ad1a62678ef3)  
  
